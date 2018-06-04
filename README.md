@@ -1,4 +1,4 @@
-# GRC-Wallet-Bot
+# Postcoin-Wallet-Bot
 
 Discord bot by [Delta](https://github.com/delta1512) for the [Gridcoin Discord chat](https://discord.me/page/gridcoin).
 
